@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 slider.py - A Bare-bones Slideshow Generator
 ============================================
 
@@ -46,7 +45,3 @@ To modify the names of the list or css files or to change the prefix of the slid
 
 
 Copyright (C) 2012 Anupam Basu <prime.lens@gmail.com>
-=======
-slider
-======
->>>>>>> 4618053f11063ad372d69c737a938d5f8efa1f8d
