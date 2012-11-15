@@ -1,5 +1,5 @@
-slider.py - A Bare-bones Slideshow Generator
-============================================
+slider.py - A Barebones Slideshow Generator
+===========================================
 
 Slider lets you connect individual images, markdown files and html documents into a slide show. Slides can be as simple as a single image or some bare text in markdown format, or as complex as full blown html pages with svg graphics, embedded objects, interactive javascript and HTML5 visualizations. 
 
@@ -8,7 +8,7 @@ There are several JavaScript slideshow generators that let you compile images an
 Usage
 -----
 
-Slider accepts a text file (default: slider.py) with a simple list of slides and generates a linked slideshow from them. The slide list can contain comment lines starting with `#` and blank lines along with the ordered list of files to be linked in the slideshow. An example:
+Slider accepts a text file (default: slider.txt) with a simple list of slides and generates a linked slideshow from them. The slide list can contain comment lines starting with `#` and blank lines along with the ordered list of files to be linked in the slideshow. An example:
 
 		# Introduction
 		title_graphic.jpg
